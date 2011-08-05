@@ -1,0 +1,16 @@
+{
+  "name": "spotify",
+  "description": "A Spotify API library for node.js",
+  "version": "0.1pre",
+  "author": "Andrée Hansson <peolanha@gmail.com>",
+  "contributors": [ 
+    { "name": "Andrée Hansson", "email": "peolanha@gmail.com" }
+  ],
+  "keywords": ["spotify", "music", "web service"],
+  "main": "lib/spotify/Spotify.js",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/peol/node-spotify.git"
+  },
+  "engines": { "node": ">= 0.4.0" }
+}
