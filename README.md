@@ -6,9 +6,18 @@ It's currently _not_ in `npm`.
 API
 ---
 Currently, there's only three (useful) methods available:
-`lookup: function({ type: 'artist OR album OR track', id: 'Spotify ID Hash', hollaback)`
-`search: function({ type: 'artist OR album OR track', query: 'My search query', hollaback)`
-`get: function(query, hollaback)` -- See http://developer.spotify.com/en/metadata-api/overview/
+
+```javascript
+lookup: function({ type: 'artist OR album OR track', id: 'Spotify ID Hash', hollaback)
+```
+
+```javascript
+search: function({ type: 'artist OR album OR track', query: 'My search query', hollaback)
+```
+
+```javascript
+get: function(query, hollaback) -- See http://developer.spotify.com/en/metadata-api/overview/
+```
 
 Example
 -------
