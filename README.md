@@ -1,7 +1,13 @@
 node-spotify
 ============
 Extremely simple (and somewhat hackish) API library for the Spotify REST API.
-It's currently _not_ in `npm`.
+
+Install
+---
+The easiest way to use node-spotify is to install it with npm:
+```javascript
+npm install spotify
+```
 
 API
 ---
