@@ -1,7 +1,7 @@
 {
   "name": "spotify",
   "description": "A Spotify API library for node.js",
-  "version": "0.1pre",
+  "version": "0.1.0",
   "author": "Andrée Hansson <peolanha@gmail.com>",
   "contributors": [ 
     { "name": "Andrée Hansson", "email": "peolanha@gmail.com" }
