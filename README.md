@@ -11,11 +11,11 @@ API
 Currently, there's only three (useful) methods available:
 
 ```javascript
-lookup: function({ type: 'artist OR album OR track', id: 'Spotify ID Hash', hollaback)
+lookup: function({ type: 'artist OR album OR track', id: 'Spotify ID Hash' }, hollaback)
 ```
 
 ```javascript
-search: function({ type: 'artist OR album OR track', query: 'My search query', hollaback)
+search: function({ type: 'artist OR album OR track', query: 'My search query' }, hollaback)
 ```
 
 ```javascript
