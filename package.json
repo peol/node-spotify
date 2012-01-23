@@ -5,6 +5,7 @@
   "author": "Andrée Hansson <peolanha@gmail.com>",
   "contributors": [ 
     { "name": "Andrée Hansson", "email": "peolanha@gmail.com" }
+    { "name": "Mikael Brevik", "email": "mikaelbre@gmail.com" }
   ],
   "keywords": ["spotify", "music", "web service"],
   "main": "lib/spotify/Spotify.js",
