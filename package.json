@@ -4,7 +4,7 @@
   "version": "0.1.1pre",
   "author": "Andrée Hansson <peolanha@gmail.com>",
   "contributors": [ 
-    { "name": "Andrée Hansson", "email": "peolanha@gmail.com" }
+    { "name": "Andrée Hansson", "email": "peolanha@gmail.com" },
     { "name": "Mikael Brevik", "email": "mikaelbre@gmail.com" }
   ],
   "keywords": ["spotify", "music", "web service"],
