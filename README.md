@@ -25,7 +25,7 @@ get: function(query, hollaback) -- See http://developer.spotify.com/en/metadata-
 Example
 -------
 ```javascript
-var spotify = require('node-spotify');
+var spotify = require('spotify');
 
 spotify.search({ type: 'track', query: 'dancing in the moonlight' }, function(err, data) {
     if ( err ) {
