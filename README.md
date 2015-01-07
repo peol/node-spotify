@@ -15,7 +15,7 @@ lookup: function({ type: 'artist OR album OR track', id: 'Spotify ID Hash' }, ho
 ```
 
 ```javascript
-search: function({ type: 'artist OR album OR track', query: 'My search query' }, hollaback)
+search: function({ type: 'artist OR album OR track', query: 'My search query', limit: 20 }, hollaback)
 ```
 
 ```javascript
